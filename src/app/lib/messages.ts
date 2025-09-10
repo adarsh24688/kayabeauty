@@ -1,0 +1,27 @@
+export const messages = {
+  record_found: "Records Found",
+  record_created: "Record created successfully",
+  record_deleted: "Record deleted successfully",
+  vendor_location_uuid_required: "Vendor location UUID is required in headers",
+  no_record_found: "No Records Found",
+  unauthorized_token: "Unauthorized token!",
+  unauthorized_user: "Unauthorized user access!",
+  user: {
+    add: "User created successfully.",
+    edit: "User updated successfully.",
+    delete: "User deleted successfully.",
+    status: "User status updated successfully.",
+    fetch: "User data fetch successfully.",
+    profileImg: "User profile image uploaded successfully.",
+    changePassword: "User password changed successfully.",
+    updateProfile: "Profile updated successfully.",
+    otp_sent: "OTP sent successfully.",
+    otp_verified: "OTP verified successfully.",
+    profile_setup: "Profile setup successfully.",
+    profile_found: "Profile found successfully.",
+    forgot_password: "Password OTP sent successfully.",
+    password_reset: "Password reset successfully.",
+    login_success: "Login successfully.",
+    logout: "Logout successful.",
+  }
+};
