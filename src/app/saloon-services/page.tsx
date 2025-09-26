@@ -551,8 +551,8 @@ export default function Services() {
                     <div className="p-5 sm:p-6 flex flex-col justify-between h-52">
                       <div className="mb-4">
                         <h3 className="font-playfair font-bold text-xl text-[#B11C5F] mb-2 leading-tight group-hover:text-[#F28C8C] transition-colors duration-300">
-                          {service.service.length > 35
-                            ? `${service.service.slice(0, 35)}...`
+                          {service.service.length > 20
+                            ? `${service.service.slice(0, 20)}...`
                             : service.service}
                         </h3>
 
