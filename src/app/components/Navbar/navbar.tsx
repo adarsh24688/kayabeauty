@@ -14,7 +14,7 @@ import Logo from "@/assets/kayaa-home/hedarKayaBeauty.png";
 const NAV_LINKS = [
   { label: "Home", href: "/" },
   { label: "Services", href: "/saloon-services" },
-  { label: "Gift Card", href: "/gifts" },
+  { label: "Shop", href: "/shop" },
   { label: "About Us", href: "/about-us" },
   { label: "Contact Us", href: "/contact-us" },
 ];

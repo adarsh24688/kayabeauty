@@ -46,7 +46,7 @@ export default function MobileMenu() {
   const NAV_LINKS = [
     { label: "Home", href: "/" },
     { label: "Services", href: "/saloon-services" },
-    { label: "Gift Card", href: "/gifts" },
+    { label: "Shop", href: "/shop" },
     { label: "About Us", href: "/about-us" },
     { label: "Contact Us", href: "/contact-us" },
     { label: "Account Settings", href: "/settings/profile" },
